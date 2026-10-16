@@ -1,0 +1,71 @@
+{
+  "baseUrl": "http://127.0.0.1:4173",
+  "runs": [
+    {
+      "name": "desktop",
+      "viewport": {
+        "width": 1440,
+        "height": 960
+      },
+      "status": 200,
+      "canvasCount": 1,
+      "webgl": {
+        "active": true,
+        "renderer": "WebKit WebGL",
+        "size": [
+          1440,
+          960
+        ]
+      },
+      "transformedActVisible": true,
+      "comparisonPosition": "73%",
+      "selectedService": "Faróis",
+      "dialogOpen": true,
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "name": "mobile",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "status": 200,
+      "canvasCount": 1,
+      "webgl": {
+        "active": true,
+        "renderer": "WebKit WebGL",
+        "size": [
+          390,
+          844
+        ]
+      },
+      "transformedActVisible": true,
+      "comparisonPosition": "73%",
+      "selectedService": "Faróis",
+      "dialogOpen": true,
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "name": "reduced-motion",
+      "viewport": {
+        "width": 1280,
+        "height": 800
+      },
+      "status": 200,
+      "canvasCount": 1,
+      "webgl": {
+        "active": true,
+        "renderer": "WebKit WebGL",
+        "size": [
+          1280,
+          1518
+        ]
+      },
+      "reducedClass": true,
+      "consoleErrors": [],
+      "pageErrors": []
+    }
+  ]
+}
